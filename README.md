@@ -1,3 +1,4 @@
+![Animation](https://user-images.githubusercontent.com/82046540/166926396-bdb58c73-97eb-45f9-bc53-4ec669266e78.gif)
 In this project, I made an application that we can create and download qr code using the qrcode library with using react.
 https://qrcodegeneratormd.netlify.app/
 # Getting Started with Create React App
